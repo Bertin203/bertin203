@@ -9,7 +9,7 @@
 &#128260; Constantly learning, seeking for knowledge and improvement.
 &#129504; Fast Learning Process, Bilingual
 &#128170; Communicative, Organized, Leadership Spirit, Proactive, Agile
-&#128188; Actually looking for an level job opportunity! (Trainee/Junior level)
+&#128188; Actually looking for an job opportunity! (Trainee/Junior level)
 <h4>&#128231; Contact Me at:  <a href="mailto:gilbertos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>  <a href="https://www.linkedin.com/in/gilbertosouza203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"></a>
 </h4>  
 </pre>
