@@ -3,8 +3,8 @@
 <pre> 
 &#128100; Hello, I'm Gilberto Souza, <i>aka</i> Bertin.
 &#127874; 24y
-&#127891; Attending the <b>Systems Information</b> Bachelor's Degree at Unijorge <i>(on 1st of 8 periods)</i>. 
-<b>&#128218; Actually studying: Java and C</b>
+&#127891; Attending the <b>Information Systems</b> Bachelor's Degree at Unijorge <i>(on 1st of 8 periods)</i>. 
+<b>&#128218; Actually studying: Golang, C and JavaScript</b>
 &#128172; Completely passionate about the world of IT and all its possibilities. 
 &#128260; Constantly learning, seeking for knowledge and improvement.
 &#129504; Fast Learning Process, Bilingual
